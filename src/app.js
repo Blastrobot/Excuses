@@ -31,11 +31,11 @@ let generateExcuse = () => {
 
   return (
     who[whoIndex] +
-    "" +
+    " " +
     action[actionIndex] +
-    "" +
+    " " +
     what[whatIndex] +
-    "" +
+    " " +
     when[whenIndex]
   );
 };
