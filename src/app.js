@@ -21,7 +21,7 @@ let generateExcuse = () => {
     "right on time",
     "when I finished",
     "during my lunch",
-    "while I was praying"
+    "while I was eating"
   ];
 
   let whoIndex = Math.floor(Math.random() * who.length);
